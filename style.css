@@ -165,8 +165,43 @@ body .container .main-white {
   margin: 0px -20px;
 }
 .box-text {
-  font-size: 12.7px;
+  font-size: 12.8px;
   margin-left: 30px;
+  margin-right: 100px;
+}
+.highlight {
+  font-size: 11px;
+  color: #7aa4d6;
+}
+.ul-white > li > a {
+  color: #7aa4d6;
+  font-size: 14px;
+  text-decoration: none;
+
+}
+.ul-white {
+  margin-left: 70px;
+  text-align: center;
+  list-style: square;
+  width: 250px;
+}
+ul.nav-bot {
+  padding-top: 50px;
+  padding-bottom: 15px;
+  display: block;
+  font-size: 18px;
+}
+.nav-bot li {
+   display: inline-block; 
+   margin-right: 50px;
+}
+.copyright {
+  padding-bottom: 5px;
+}
+
+.temp {
+  width: 970px;
+}x;
   margin-right: 100px;
 }
 .highlight {
